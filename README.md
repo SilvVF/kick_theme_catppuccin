@@ -1,4 +1,4 @@
-#Unofficial catppuccin theme for kick
+# Unofficial catppuccin theme for kick
 
 install at https://userstyles.world/style/10519/kick-catppuccin
 
