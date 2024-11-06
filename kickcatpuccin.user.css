@@ -1,10 +1,12 @@
 /* ==UserStyle==
 @name Kick Catppuccin
-@namespace kick catapuccin
+@homepageURL https://github.com/SilvVF/kick_theme_catppuccin/
+@namespace https://github.com/SilvVF/kick_theme_catppuccin
 @version 0.0.0
 @description Soothing pastel theme for Quizlet
-@author me
+@author SilvVF
 @license MIT
+
 
 @preprocessor less
 @var select lightFlavor "Light Flavor" ["latte:Latte*", "frappe:Frappé", "macchiato:Macchiato", "mocha:Mocha"]
